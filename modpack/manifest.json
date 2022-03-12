@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2859",
+        "id": "forge-14.23.5.2860",
         "primary": true
       }
     ]
@@ -14,5 +14,145 @@
   "version": "0.0.0",
   "author": "industrial-galaxies",
   "name": "base",
-  "files": []
+  "files": [
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true,
+      "__meta": {
+        "name": "BetterFps"
+      }
+    },
+    {
+      "projectID": 233019,
+      "fileID": 2450734,
+      "required": true,
+      "__meta": {
+        "name": "AI Improvements"
+      }
+    },
+    {
+      "projectID": 250290,
+      "fileID": 2916357,
+      "required": true,
+      "__meta": {
+        "name": "Surge"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 2666198,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 278494,
+      "fileID": 3327893,
+      "required": true,
+      "__meta": {
+        "name": "Foam​Fix"
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 2694382,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 285789,
+      "fileID": 2641661,
+      "required": true,
+      "__meta": {
+        "name": "Born in a Barn"
+      }
+    },
+    {
+      "projectID": 288885,
+      "fileID": 2838777,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2915154,
+      "required": true,
+      "__meta": {
+        "name": "VanillaFix"
+      }
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2706111,
+      "required": true,
+      "__meta": {
+        "name": "FastFurnace"
+      }
+    },
+    {
+      "projectID": 307843,
+      "fileID": 2642103,
+      "required": true,
+      "__meta": {
+        "name": "Multithreaded Noise"
+      }
+    },
+    {
+      "projectID": 409087,
+      "fileID": 3668442,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling",
+        "dependencies": [
+          419286
+        ]
+      }
+    },
+    {
+      "projectID": 419286,
+      "fileID": 3679872,
+      "required": true,
+      "__meta": {
+        "name": "MixinBooter",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 446253,
+      "fileID": 3554486,
+      "required": true,
+      "__meta": {
+        "name": "Better Biome Blend"
+      }
+    },
+    {
+      "projectID": 460609,
+      "fileID": 3650472,
+      "required": true,
+      "__meta": {
+        "name": "CensoredASM",
+        "dependencies": [
+          419286
+        ]
+      }
+    },
+    {
+      "projectID": 557549,
+      "fileID": 3671148,
+      "required": true,
+      "__meta": {
+        "name": "Had Enough Items"
+      }
+    }
+  ]
 }
