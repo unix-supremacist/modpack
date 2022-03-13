@@ -16,6 +16,22 @@
   "name": "base",
   "files": [
     {
+      "projectID": 60089,
+      "fileID": 3359843,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 223094,
+      "fileID": 2923460,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Tweaks [1.12 only] "
+      }
+    },
+    {
       "projectID": 229876,
       "fileID": 2483393,
       "required": true,
@@ -32,11 +48,27 @@
       }
     },
     {
+      "projectID": 248787,
+      "fileID": 2987247,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin"
+      }
+    },
+    {
       "projectID": 250290,
       "fileID": 2916357,
       "required": true,
       "__meta": {
         "name": "Surge"
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 3025548,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
       }
     },
     {
